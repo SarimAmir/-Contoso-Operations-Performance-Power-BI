@@ -22,3 +22,6 @@ Developed a 3-page interactive Power BI report using the Contoso Retail dataset 
 - Highlighted top-performing regions and product categories.
 - Measured promotion effectiveness by type and ROI.
 - Identified stock coverage gaps for better inventory planning.
+
+
+Dataset Link: https://www.kaggle.com/datasets/bhanuthakurr/cleaned-contoso-dataset
